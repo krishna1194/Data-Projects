@@ -1,6 +1,6 @@
 # Data-Projects
 
-I'll be updating this folder with multiple Data projects.
+I'll be updating this folder with Multiple Data Projects. All the projects will be coded using Python.
 
 | S.No  | Project Name | Company Name | Brief Description |
 | ------------- | ------------- | ------------- | ------------- |
