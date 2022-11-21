@@ -1,0 +1,50 @@
+# Overall Problem Statement
+The problem asks to use Open Weather Map's API (Application Programming Interface) to query forecasted temperature data. You will write your results to a CSV file.
+
+## Introduction
+
+1. Use the OpenWeatherMap API to query future-day forecasts containing expected daily weather conditions for 16 different cities.
+2. Parse the Python variables returned by the API to extract the the minimum and maximum forecast temperature temperatureMini and temperatureMaxi in Celsius for each of the upcoming four (4) days.
+3. Compute the average minimum and maximum forecast temperatures Minavg and Maxavg for the upcoming four (4) days.
+
+## Cities to Query
+
+1. Bengaluru, India
+2. Glasgow, Scotland
+3. Gumi, South Korea
+4. Lagos, Nigeria
+5. Nanaimo, Canada
+6. Niskayuna, New York
+7. Nizhny Novgorod, Russia
+8. Olongapo, Philippines
+9. Peshawar, Pakistan
+10. Peterhead, Scotland
+11. Quito, Ecuador
+12. Simmern, Germany
+13. Tainan, Taiwan
+14. Tbilisi, Georgia
+15. Vinh Long, Vietnam
+16. Xi'an, China
+
+
+## Locating "Tomorrow"
+
+Your 4-day forecast starts at midnight tomorrow, and includes tomorrow plus the three days following tomorrow. For example, if the date when you run your program is August 23, you would provide a 4-day forecast for August 24 through August 28.
+
+
+
+# Solution
+
+The solution is completely automated. The user can change the number of days or add a city to get extra details. Except that everything is automated.
+API is used to pull the data from Open Weather Map website.
+
+There are 3 "for loops":
+
+1. Looping the cities
+2. Looping for the days we are interested in
+3. Looping to get the min and max for each day
+
+
+
+The notebook is fully commented and it can be used directly - Create an account in Open Weather Map and get the api key and run this program.
+There is also a python file(.py) that can be used.
