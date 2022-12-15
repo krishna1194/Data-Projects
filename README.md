@@ -1,6 +1,6 @@
 # Data-Projects
 
-I'll be updating this folder with Multiple Data Projects. All the projects will be coded using Python.
+I'll be updating this folder with Multiple Data Projects. All the projects will be coded using Python. The data is from StrataScratch.
 
 | S.No  | Project Name | Company Name | Brief Description |
 | ------------- | ------------- | ------------- | ------------- |
