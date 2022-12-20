@@ -8,4 +8,4 @@ I'll be updating this folder with Multiple Data Projects. All the projects will 
 | 2 | Data Transformation | Chama | Convert the "json" file to three csv files, with multiple rules |
 | 3 | OpenWeatherMap Temperature API Forecast | IAA | Use Open Weather Map's API to query forecasted temperature data for 4 days and store it in a csv file (Fully Automated) |
 | 4 | TicTacToe | N/A | Create an interactive Tic Tac Toe two player game |
-
+| 5 | Customer Churn Prediction | Sony Research | Goal is to predict customer churn |
